@@ -1,3 +1,3 @@
 # nccracingm
 
-[] test
+- [] test
